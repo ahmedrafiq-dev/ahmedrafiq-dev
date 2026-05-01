@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ahmed Rafiq
 
-<!--
-**ahmedrafiq-dev/ahmedrafiq-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering Student | Embedded Systems | Robotics | IoT
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about embedded systems and robotics  
+- Building real-time systems and IoT solutions  
+- Interested in autonomous systems and safety-critical applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Embedded Systems (ESP32, TM4C123, Raspberry Pi)  
+- Programming (C/C++, Embedded C, Swift)  
+- IoT (MQTT, Cloud Integration)  
+- Mobile Development (Flutter, SwiftUI)  
+
+## 📂 Projects
+- Bomb Disposal and Detection Robot (FYP)  
+- Smart Bathroom Automation System (IoT)  
+- Smart Indoor Navigation Assistant  
